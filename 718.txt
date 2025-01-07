@@ -1,0 +1,14 @@
+what is function :
+a function is a reusable block of code design to perform a specific task. it can take input and process it
+we can create function by using the word def followed by the function name 
+how to find built-in methods in python?
+print(dir(str))
+can we have function with return value? yes
+can we have function with default value? yes
+lambda function:
+a lambda function is an anonoyumus function, often referred as
+1)lambda expression
+2)lambda function
+3)lambda form
+syntax: lambda arguments: expression
+
